@@ -1,0 +1,1 @@
+{"version":1,"processor":"tadhack::basic::natural.SentimentAnalyzer::8.0.1","uuid":"31cb6759-4726-438b-9d2e-7fe7657487da","flow":[{"conversationLine":3,"sentiment":0.05},{"conversationLine":9,"sentiment":0.4444444444444444},{"conversationLine":11,"sentiment":0.4}],"progression":{"state":[],"startDirection":1}}

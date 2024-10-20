@@ -1,0 +1,74 @@
+{
+    "uuid": "0192a384-d567-8976-9dd8-dd37220d739c",
+    "vcon": "0.0.1",
+    "created_at": "2024-10-19T06:44:04.583624+00:00",
+    "redacted": {},
+    "group": [],
+    "parties": [
+      {
+        "tel": "+17635324976",
+        "mailto": "ryan.henderson@accountingfirm.com",
+        "name": "Ryan Henderson",
+        "meta": {
+          "role": "agent"
+        }
+      },
+      {
+        "tel": "+13816366892",
+        "mailto": "sara.kelly@gmail.com",
+        "name": "Sara Kelly",
+        "meta": {
+          "role": "customer"
+        }
+      }
+    ],
+    "dialog": [
+      {
+        "type": "recording",
+        "start": "2024-10-19T06:44:04.064680",
+        "duration": 57.072,
+        "parties": [
+          0,
+          1
+        ],
+        "mimetype": "audio/mp3",
+        "filename": "6026b25c-dfd0-4eeb-9558-928336a3cc75.mp3",
+        "body": "",
+        "encoding": "base64url",
+        "alg": "sha256",
+        "signature": "wBPX5fBURWztNSWMnBHIIO8aMPkvzdkNYXr9L_yR8WE=",
+        "disposition": "ANSWERED"
+      }
+    ],
+    "attachments": [
+      {
+        "type": "generation_info",
+        "body": {
+          "agent_name": "Ryan Henderson",
+          "customer_name": "Sara Kelly",
+          "business": "Accounting Firm",
+          "problem": "customer service",
+          "emotion": "relaxed",
+          "created_on": "2024-10-19T06:44:04.583555",
+          "model": "gpt-4o-mini"
+        },
+        "encoding": "none"
+      }
+    ],
+    "analysis": [
+      {
+        "type": "analysis_info",
+        "dialog": 0,
+        "vendor": "openai",
+        "body": [ 
+            {"speaker": "Agent", "message": "Hello, and thank you for calling Henderson Accounting Services! My name is Ryan Henderson. How can I assist you today? May I have your name, please?"}, 
+            {"speaker": "Customer", "message": "Hi, I’m Sara Kelly. I’ve got a bit of an issue with the billing on my last statement."}, {"speaker": "Agent", "message": "I’m sorry to hear that, Sara. I’d be happy to help! Can you give me some more details about the issue?"}, {"speaker": "Customer", "message": "Well, I noticed there’s an extra charge on my account that I wasn’t expecting. It doesn’t look right."}, {"speaker": "Agent", "message": "I understand your concern. Could you provide the invoice number or the date of the bill you’re referring to?"}, {"speaker": "Customer", "message": "Sure, it’s invoice number four zero two eight from October fifth."}, {"speaker": "Agent", "message": "Thank you, Sara. Let me pull that up for you... Okay, I see the invoice. Could you let me know which charge seems incorrect to you?"}, {"speaker": "Customer", "message": "It’s a fee for consulting services, but I didn’t request any consulting."}, {"speaker": "Agent", "message": "I see what you mean. It’s listed as an extra two hundred fifty dollars for consulting. Let me double-check our records to see where that came from."}, {"speaker": "Customer", "message": "Okay, thank you. I was worried I’d been overcharged for something I didn’t use."}, {"speaker": "Agent", "message": "No worries, Sara. I’m going through the details now... It looks like that charge was applied by mistake. You’re correct—you didn’t request any consulting services."}, {"speaker": "Customer", "message": "Phew! That’s a relief. I was really confused."}, {"speaker": "Agent", "message": "I completely understand. I’ll go ahead and remove that charge from your invoice. We’ll issue a corrected bill right away. Would you like it sent to your email?"}, {"speaker": "Customer", "message": "Yes, please. My email is sara.kelly at email dot com."}, {"speaker": "Agent", "message": "Got it, thank you for confirming that. While I have your account open, would you like me to verify your other account details to make sure everything’s accurate?"}, {"speaker": "Customer", "message": "Sure, that would be helpful."}, {"speaker": "Agent", "message": "Great. I have your billing address listed as twelve thirty-two Oak Avenue, Springfield. Is that correct?"}, {"speaker": "Customer", "message": "Yes, that’s correct."}, {"speaker": "Agent", "message": "Perfect. And your phone number is five five five, one two three, four five six seven. Is that still the best number to reach you?"}, {"speaker": "Customer", "message": "Yes, that’s still good."}, {"speaker": "Agent", "message": "Excellent. I’ve updated your account to reflect the corrected invoice. You should receive it by the end of today."}, {"speaker": "Customer", "message": "Great! I appreciate you fixing that so quickly."}, {"speaker": "Agent", "message": "No problem at all, Sara. I’m glad we could resolve it. Just to confirm, would you like to set up automatic payments for future invoices?"}, {"speaker": "Customer", "message": "Hmm, I’m not sure about that. What does that involve exactly?"}, {"speaker": "Agent", "message": "It’s a simple process. Once you set it up, the total due is automatically withdrawn from your account on the due date. You won’t have to worry about manual payments."}, {"speaker": "Customer", "message": "I see. Does that work with both credit cards and bank accounts?"}, {"speaker": "Agent", "message": "Yes, it can be linked to either your credit card or directly to your checking account—whichever is more convenient for you."}, {"speaker": "Customer", "message": "That sounds pretty good, actually. Can I set it up with my checking account?"}, {"speaker": "Agent", "message": "Absolutely! I can help you set that up right now. Could you provide the routing and account numbers for your bank?"}, {"speaker": "Customer", "message": "Sure. The routing number is zero two one zero zero zero one seven six, and the account number is four five six seven eight nine zero one two."}, {"speaker": "Agent", "message": "Thank you, Sara. I’ve set that up for you. Starting with your next invoice, payments will be automatically withdrawn from your checking account."}, {"speaker": "Customer", "message": "Perfect. That’ll save me a lot of time."}, {"speaker": "Agent", "message": "I’m glad to hear that! Is there anything else I can assist you with today?"}, {"speaker": "Customer", "message": "Actually, could you explain how the tax reporting works for businesses with your service?"}, {"speaker": "Agent", "message": "Of course! With our service, we provide detailed quarterly tax reports for businesses. These reports include all expenses, revenues, and deductions to help make tax filing easier."}, {"speaker": "Customer", "message": "That sounds really helpful. Do I need to do anything special to get that report?"}, {"speaker": "Agent", "message": "Nope! We automatically generate the reports at the end of each quarter. You’ll get an email with a downloadable PDF. Just make sure all your expenses are logged accurately in our system."}, {"speaker": "Customer", "message": "Got it. I’ll make sure everything’s up to date."}, {"speaker": "Agent", "message": "Fantastic. Keeping your records up to date will make the reporting process smooth, and if you ever need to review past reports, they’re available in your online portal."}, {"speaker": "Customer", "message": "That’s great to know. It’s nice to have everything organized like that."}, {"speaker": "Agent", "message": "We do our best to make it as easy as possible! Is there anything else I can help you with today, Sara?"}, {"speaker": "Customer", "message": "No, I think that covers everything. Thank you so much, Ryan."}, {"speaker": "Agent", "message": "You’re very welcome! I’m glad I could assist. Thanks for choosing Henderson Accounting Services. Have a wonderful day, and feel free to reach out anytime."}, {"speaker": "Customer", "message": "Thanks! You too."}, {"speaker": "Agent", "message": "Take care, goodbye!"} 
+        ] ,
+
+        "encoding": "none",
+        "vendor_schema": {
+          "model": "gpt-4o-mini"
+        }
+      }
+    ]
+  }
